@@ -1,0 +1,10 @@
+# Monorepo root — OS / editor noise (per-package ignores live in ml-service/ and web/)
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
+*~

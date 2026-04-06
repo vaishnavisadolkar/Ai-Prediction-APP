@@ -1,0 +1,13 @@
+# Keep build context small for CI/CD image builds
+node_modules
+.next
+out
+.git
+.gitignore
+*.md
+.env
+.env.*
+!.env.example
+npm-debug.log*
+Dockerfile*
+.dockerignore
