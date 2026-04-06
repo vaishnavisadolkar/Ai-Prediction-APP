@@ -1,4 +1,4 @@
-name: CI/CD Deploy for ai prediction app
+name: CI/CD Deploy for ai prediction applications
 
 on:
   push:
